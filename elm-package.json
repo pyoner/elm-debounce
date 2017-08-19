@@ -1,6 +1,6 @@
 {
     "version": "1.0.0",
-    "summary": "Simple Debounce based on Effect Manager",
+    "summary": "Simple debounce based on the Effects Manager",
     "repository": "https://github.com/pyoner/elm-debounce.git",
     "license": "MIT",
     "source-directories": [
